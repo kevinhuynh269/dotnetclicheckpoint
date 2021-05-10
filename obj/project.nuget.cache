@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXD/DXTGeBbCDYfhYMpXDNNtKM5mN0KhVChbBV21J1TagNRbcp/ui8YpzEQzHgQkyVkXjpq80r1QD8O8FRZbyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lntinfotech\\dotnetclicheckpoint\\dotnetclicheckpoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lntinfotech\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
